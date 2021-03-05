@@ -2,6 +2,7 @@
 This repository contains the source code for JSON parser.
 
 Instructions:
+
 To make parser: make json
 
 To scan: json -scan source.json
